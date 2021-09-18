@@ -1,4 +1,5 @@
 README.md
+setup.cfg
 setup.py
 Pointlib/__init__.py
 Pointlib/pointlib.py
