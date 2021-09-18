@@ -7,6 +7,8 @@ setup(
     description='Pointlib create for manage point-coordinate in Python code.',
     author='Chayoot Kosiwanich',
     author_email='khunfloat@gmail.com'
+    url='https://github.com/khunfloat/Pointlib'
+    download_url='https://github.com/khunfloat/Pointlib/archive/refs/tags/v_0.1.1.tar.gz'
     keywords=['point', 'coordinate']
     license='MIT',
     classifiers=[
